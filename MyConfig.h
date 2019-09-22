@@ -2211,6 +2211,12 @@
 #define ARDUINO_ARCH_AVR
 
 /**
+ * @def ARDUINO_ARCH_STM32
+ * @brief Automatically set when building for STM32 targets
+ */
+#define ARDUINO_ARCH_STM32
+
+/**
  * @def ARDUINO_ARCH_STM32F1
  * @brief Automatically set when building for STM32F1 targets
  */
